@@ -1,0 +1,3 @@
+2020-10-01 21:40:14,313 - kedro.pipeline.node - ERROR - Node `Recall: recall([recall]) -> [Arrange_Aircraft,palatize,select_VOO]` failed with error: 
+Failed to save outputs of node Recall: recall([recall]) -> [Arrange_Aircraft,palatize,select_VOO].
+The node definition contains a list of outputs ['palatize', 'select_VOO', 'Arrange_Aircraft'], whereas the node function returned a `int`.

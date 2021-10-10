@@ -1,0 +1,243 @@
+2020-10-01 21:26:08,088 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-01 21:26:08,299 - werkzeug - INFO - 127.0.0.1 - - [01/Oct/2020 21:26:08] "[36mGET / HTTP/1.1[0m" 304 -
+2020-10-01 21:26:08,307 - werkzeug - INFO - 127.0.0.1 - - [01/Oct/2020 21:26:08] "[36mGET /static/css/2.9fdcc280.chunk.css HTTP/1.1[0m" 304 -
+2020-10-01 21:26:08,308 - werkzeug - INFO - 127.0.0.1 - - [01/Oct/2020 21:26:08] "[36mGET /static/css/main.e041e981.chunk.css HTTP/1.1[0m" 304 -
+2020-10-01 21:26:08,309 - werkzeug - INFO - 127.0.0.1 - - [01/Oct/2020 21:26:08] "[36mGET /static/js/2.9a28e843.chunk.js HTTP/1.1[0m" 304 -
+2020-10-01 21:26:08,310 - werkzeug - INFO - 127.0.0.1 - - [01/Oct/2020 21:26:08] "[36mGET /static/js/main.03d37b38.chunk.js HTTP/1.1[0m" 304 -
+2020-10-01 21:26:08,912 - werkzeug - INFO - 127.0.0.1 - - [01/Oct/2020 21:26:08] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-01 21:26:09,090 - werkzeug - INFO - 127.0.0.1 - - [01/Oct/2020 21:26:09] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-01 21:26:09,143 - werkzeug - INFO - 127.0.0.1 - - [01/Oct/2020 21:26:09] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-01 21:27:18,148 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-01 21:27:18,212 - werkzeug - INFO - 127.0.0.1 - - [01/Oct/2020 21:27:18] "[36mGET / HTTP/1.1[0m" 304 -
+2020-10-01 21:27:18,267 - werkzeug - INFO - 127.0.0.1 - - [01/Oct/2020 21:27:18] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-01 21:27:18,307 - werkzeug - INFO - 127.0.0.1 - - [01/Oct/2020 21:27:18] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-01 21:27:18,322 - werkzeug - INFO - 127.0.0.1 - - [01/Oct/2020 21:27:18] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-01 21:31:09,955 - root - INFO - ** Kedro project undersea_rescue
+2020-10-01 21:31:38,461 - root - INFO - ** Kedro project undersea_rescue
+2020-10-01 21:31:38,472 - kedro.versioning.journal - WARNING - Unable to git describe /Users/johnbabick/DataAnalysis/KedroProjects/undersea_rescue
+2020-10-01 21:31:38,543 - kedro.pipeline.node - INFO - Running node: Alert: alert(None) -> [alert time]
+2020-10-01 21:31:38,544 - kedro.io.data_catalog - INFO - Saving data to `alert time` (MemoryDataSet)...
+2020-10-01 21:31:38,544 - kedro.runner.sequential_runner - INFO - Completed 1 out of 1 tasks
+2020-10-01 21:31:38,544 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2020-10-01 21:31:38,544 - kedro.io.data_catalog - INFO - Loading data from `alert time` (MemoryDataSet)...
+2020-10-01 21:31:50,479 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-01 21:31:50,554 - werkzeug - INFO - 127.0.0.1 - - [01/Oct/2020 21:31:50] "[36mGET / HTTP/1.1[0m" 304 -
+2020-10-01 21:31:50,599 - werkzeug - INFO - 127.0.0.1 - - [01/Oct/2020 21:31:50] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-01 21:31:50,633 - werkzeug - INFO - 127.0.0.1 - - [01/Oct/2020 21:31:50] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-01 21:31:50,660 - werkzeug - INFO - 127.0.0.1 - - [01/Oct/2020 21:31:50] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-01 21:36:29,348 - root - INFO - ** Kedro project undersea_rescue
+2020-10-01 21:36:29,360 - kedro.versioning.journal - WARNING - Unable to git describe /Users/johnbabick/DataAnalysis/KedroProjects/undersea_rescue
+2020-10-01 21:36:29,428 - kedro.pipeline.node - INFO - Running node: Alert: alert(None) -> [alert time]
+2020-10-01 21:36:29,428 - kedro.io.data_catalog - INFO - Saving data to `alert time` (MemoryDataSet)...
+2020-10-01 21:36:29,429 - kedro.runner.sequential_runner - INFO - Completed 1 out of 1 tasks
+2020-10-01 21:36:29,429 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2020-10-01 21:36:29,429 - kedro.io.data_catalog - INFO - Loading data from `alert time` (MemoryDataSet)...
+2020-10-01 21:39:11,000 - root - INFO - ** Kedro project undersea_rescue
+2020-10-01 21:39:53,145 - root - INFO - ** Kedro project undersea_rescue
+2020-10-01 21:39:53,157 - kedro.versioning.journal - WARNING - Unable to git describe /Users/johnbabick/DataAnalysis/KedroProjects/undersea_rescue
+2020-10-01 21:40:14,234 - root - INFO - ** Kedro project undersea_rescue
+2020-10-01 21:40:14,245 - kedro.versioning.journal - WARNING - Unable to git describe /Users/johnbabick/DataAnalysis/KedroProjects/undersea_rescue
+2020-10-01 21:40:14,312 - kedro.pipeline.node - INFO - Running node: Alert: alert(None) -> [recall]
+2020-10-01 21:40:14,312 - kedro.io.data_catalog - INFO - Saving data to `recall` (MemoryDataSet)...
+2020-10-01 21:40:14,313 - kedro.runner.sequential_runner - INFO - Completed 1 out of 2 tasks
+2020-10-01 21:40:14,313 - kedro.io.data_catalog - INFO - Loading data from `recall` (MemoryDataSet)...
+2020-10-01 21:40:14,313 - kedro.pipeline.node - INFO - Running node: Recall: recall([recall]) -> [Arrange_Aircraft,palatize,select_VOO]
+2020-10-01 21:40:14,313 - kedro.pipeline.node - ERROR - Node `Recall: recall([recall]) -> [Arrange_Aircraft,palatize,select_VOO]` failed with error: 
+Failed to save outputs of node Recall: recall([recall]) -> [Arrange_Aircraft,palatize,select_VOO].
+The node definition contains a list of outputs ['palatize', 'select_VOO', 'Arrange_Aircraft'], whereas the node function returned a `int`.
+2020-10-01 21:40:14,314 - kedro.runner.sequential_runner - WARNING - There are 1 nodes that have not run.
+You can resume the pipeline run by adding the following argument to your previous command:
+  --from-nodes "Recall"
+2020-10-01 21:40:48,808 - root - INFO - ** Kedro project undersea_rescue
+2020-10-01 21:40:48,823 - kedro.versioning.journal - WARNING - Unable to git describe /Users/johnbabick/DataAnalysis/KedroProjects/undersea_rescue
+2020-10-01 21:40:48,894 - kedro.pipeline.node - INFO - Running node: Alert: alert(None) -> [recall]
+2020-10-01 21:40:48,894 - kedro.io.data_catalog - INFO - Saving data to `recall` (MemoryDataSet)...
+2020-10-01 21:40:48,894 - kedro.runner.sequential_runner - INFO - Completed 1 out of 2 tasks
+2020-10-01 21:40:48,894 - kedro.io.data_catalog - INFO - Loading data from `recall` (MemoryDataSet)...
+2020-10-01 21:40:48,894 - kedro.pipeline.node - INFO - Running node: Recall: recall([recall]) -> [Arrange_Aircraft,palatize,select_VOO]
+2020-10-01 21:40:48,894 - kedro.io.data_catalog - INFO - Saving data to `palatize` (MemoryDataSet)...
+2020-10-01 21:40:48,894 - kedro.io.data_catalog - INFO - Saving data to `select_VOO` (MemoryDataSet)...
+2020-10-01 21:40:48,894 - kedro.io.data_catalog - INFO - Saving data to `Arrange_Aircraft` (MemoryDataSet)...
+2020-10-01 21:40:48,895 - kedro.runner.sequential_runner - INFO - Completed 2 out of 2 tasks
+2020-10-01 21:40:48,895 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2020-10-01 21:40:48,895 - kedro.io.data_catalog - INFO - Loading data from `Arrange_Aircraft` (MemoryDataSet)...
+2020-10-01 21:40:48,895 - kedro.io.data_catalog - INFO - Loading data from `palatize` (MemoryDataSet)...
+2020-10-01 21:40:48,895 - kedro.io.data_catalog - INFO - Loading data from `select_VOO` (MemoryDataSet)...
+2020-10-01 21:40:53,249 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-01 21:40:53,327 - werkzeug - INFO - 127.0.0.1 - - [01/Oct/2020 21:40:53] "[36mGET / HTTP/1.1[0m" 304 -
+2020-10-01 21:40:53,481 - werkzeug - INFO - 127.0.0.1 - - [01/Oct/2020 21:40:53] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-01 21:40:53,577 - werkzeug - INFO - 127.0.0.1 - - [01/Oct/2020 21:40:53] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-01 21:40:53,645 - werkzeug - INFO - 127.0.0.1 - - [01/Oct/2020 21:40:53] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-01 21:42:57,375 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-01 21:42:57,438 - werkzeug - INFO - 127.0.0.1 - - [01/Oct/2020 21:42:57] "[36mGET / HTTP/1.1[0m" 304 -
+2020-10-01 21:42:57,486 - werkzeug - INFO - 127.0.0.1 - - [01/Oct/2020 21:42:57] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-01 21:42:57,521 - werkzeug - INFO - 127.0.0.1 - - [01/Oct/2020 21:42:57] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-01 21:42:57,547 - werkzeug - INFO - 127.0.0.1 - - [01/Oct/2020 21:42:57] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 12:53:22,805 - root - INFO - ** Kedro project undersea_rescue
+2020-10-03 12:53:22,829 - kedro.versioning.journal - WARNING - Unable to git describe /Users/johnbabick/DataAnalysis/KedroProjects/undersea_rescue
+2020-10-03 12:53:23,194 - kedro.pipeline.node - INFO - Running node: Alert: alert(None) -> [Notifications]
+2020-10-03 12:53:23,194 - kedro.io.data_catalog - INFO - Saving data to `Notifications` (MemoryDataSet)...
+2020-10-03 12:53:23,194 - kedro.runner.sequential_runner - INFO - Completed 1 out of 2 tasks
+2020-10-03 12:53:23,195 - kedro.io.data_catalog - INFO - Loading data from `Notifications` (MemoryDataSet)...
+2020-10-03 12:53:23,195 - kedro.pipeline.node - INFO - Running node: Recall: recall([Notifications]) -> [Arrange_Aircraft,palatize,select_VOO]
+2020-10-03 12:53:23,195 - kedro.io.data_catalog - INFO - Saving data to `palatize` (MemoryDataSet)...
+2020-10-03 12:53:23,195 - kedro.io.data_catalog - INFO - Saving data to `select_VOO` (MemoryDataSet)...
+2020-10-03 12:53:23,195 - kedro.io.data_catalog - INFO - Saving data to `Arrange_Aircraft` (MemoryDataSet)...
+2020-10-03 12:53:23,196 - kedro.runner.sequential_runner - INFO - Completed 2 out of 2 tasks
+2020-10-03 12:53:23,196 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2020-10-03 12:53:23,196 - kedro.io.data_catalog - INFO - Loading data from `Arrange_Aircraft` (MemoryDataSet)...
+2020-10-03 12:53:23,196 - kedro.io.data_catalog - INFO - Loading data from `palatize` (MemoryDataSet)...
+2020-10-03 12:53:23,196 - kedro.io.data_catalog - INFO - Loading data from `select_VOO` (MemoryDataSet)...
+2020-10-03 12:53:33,127 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 12:53:33,352 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 12:53:33] "[36mGET / HTTP/1.1[0m" 304 -
+2020-10-03 12:53:33,359 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 12:53:33] "[36mGET /static/js/main.03d37b38.chunk.js HTTP/1.1[0m" 304 -
+2020-10-03 12:53:33,360 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 12:53:33] "[36mGET /static/css/main.e041e981.chunk.css HTTP/1.1[0m" 304 -
+2020-10-03 12:53:33,360 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 12:53:33] "[36mGET /static/css/2.9fdcc280.chunk.css HTTP/1.1[0m" 304 -
+2020-10-03 12:53:33,361 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 12:53:33] "[36mGET /static/js/2.9a28e843.chunk.js HTTP/1.1[0m" 304 -
+2020-10-03 12:53:33,813 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 12:53:33] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 12:53:34,012 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 12:53:34] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 12:53:34,032 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 12:53:34] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 12:58:55,203 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 12:58:55,328 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 12:58:55] "[36mGET / HTTP/1.1[0m" 304 -
+2020-10-03 12:58:55,372 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 12:58:55] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 12:58:55,414 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 12:58:55] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 12:58:55,433 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 12:58:55] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:01:47,066 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:01:47] "[36mGET / HTTP/1.1[0m" 304 -
+2020-10-03 13:01:47,109 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:01:47] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:01:47,158 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:01:47] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:01:47,166 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:01:47] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:02:40,411 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:02:40,468 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:02:40] "[36mGET / HTTP/1.1[0m" 304 -
+2020-10-03 13:02:40,510 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:02:40] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:02:40,564 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:02:40] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:02:40,583 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:02:40] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:03:25,577 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:03:25,585 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:03:25] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-03 13:03:25,629 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:03:25] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:03:25,679 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:03:25] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:03:25,695 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:03:25] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:04:59,616 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:04:59,674 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:04:59] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-03 13:04:59,715 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:04:59] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:04:59,747 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:04:59] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:04:59,776 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:04:59] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:06:34,886 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:06:34,893 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:06:34] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-03 13:06:34,938 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:06:34] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:06:34,992 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:06:34] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:06:35,002 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:06:35] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:09:05,457 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:09:05,498 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:09:05] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-03 13:09:05,536 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:09:05] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:09:05,587 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:09:05] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:09:05,607 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:09:05] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:09:41,493 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:09:41,508 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:09:41] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-03 13:09:41,555 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:09:41] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:09:41,602 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:09:41] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:09:41,618 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:09:41] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:10:38,567 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:10:38,580 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:10:38] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-03 13:10:38,624 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:10:38] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:10:38,671 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:10:38] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:10:38,692 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:10:38] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:12:48,990 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:12:49,003 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:12:49] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-03 13:12:49,049 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:12:49] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:12:49,103 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:12:49] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:12:49,110 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:12:49] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:19:47,840 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:19:47,863 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:19:47] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-03 13:19:47,901 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:19:47] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:19:47,942 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:19:47] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:19:47,955 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:19:47] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:20:43,166 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:20:43,185 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:20:43] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-03 13:20:43,226 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:20:43] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:20:43,268 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:20:43] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:20:43,284 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:20:43] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:21:32,560 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:21:32,572 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:21:32] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-03 13:21:32,613 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:21:32] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:21:32,653 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:21:32] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:21:32,671 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:21:32] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:22:54,662 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:22:54,678 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:22:54] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-03 13:22:54,718 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:22:54] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:22:54,765 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:22:54] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:22:54,780 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:22:54] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:26:50,010 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:26:50,027 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:26:50] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-03 13:26:50,066 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:26:50] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:26:50,112 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:26:50] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:26:50,131 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:26:50] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:29:30,321 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:29:30,341 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:29:30] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-03 13:29:30,382 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:29:30] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:29:30,424 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:29:30] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:29:30,439 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:29:30] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:31:33,215 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:31:33,234 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:31:33] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-03 13:31:33,274 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:31:33] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:31:33,316 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:31:33] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:31:33,323 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:31:33] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:33:16,290 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:33:16,321 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:33:16] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-03 13:33:16,363 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:33:16] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:33:16,406 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:33:16] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:33:16,418 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:33:16] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:34:44,876 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:34:44,888 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:34:44] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-03 13:34:44,928 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:34:44] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:34:44,972 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:34:44] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:34:44,985 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:34:44] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:37:02,592 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:37:02,603 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:37:02] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-03 13:37:02,643 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:37:02] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:37:02,682 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:37:02] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:37:02,690 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:37:02] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:38:11,742 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:38:11,796 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:38:11] "[36mGET / HTTP/1.1[0m" 304 -
+2020-10-03 13:38:11,832 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:38:11] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:38:11,883 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:38:11] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:38:11,891 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:38:11] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:42:32,095 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:42:32,111 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:42:32] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-03 13:42:32,151 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:42:32] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:42:32,194 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:42:32] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:42:32,215 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:42:32] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:43:05,945 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:43:05,956 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:43:05] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-03 13:43:06,000 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:43:06] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:43:06,045 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:43:06] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:43:06,054 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:43:06] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:44:18,855 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:44:18,870 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:44:18] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-03 13:44:18,911 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:44:18] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:44:18,956 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:44:18] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:44:18,964 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:44:18] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:45:01,259 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:45:01,270 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:45:01] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-03 13:45:01,313 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:45:01] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:45:01,358 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:45:01] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:45:01,365 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:45:01] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:47:03,794 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:47:03,809 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:47:03] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-03 13:47:03,851 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:47:03] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:47:03,897 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:47:03] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:47:03,904 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:47:03] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:50:17,061 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:50:17,075 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:50:17] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-03 13:50:17,116 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:50:17] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:50:17,164 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:50:17] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:50:17,182 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:50:17] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:51:30,559 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:51:30,574 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:51:30] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-03 13:51:30,624 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:51:30] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:51:30,671 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:51:30] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:51:30,680 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:51:30] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:58:09,864 - werkzeug - INFO -  * Running on http://127.0.0.1:4141/ (Press CTRL+C to quit)
+2020-10-03 13:58:09,883 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:58:09] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-03 13:58:09,924 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:58:09] "[37mGET /api/main HTTP/1.1[0m" 200 -
+2020-10-03 13:58:09,972 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:58:09] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
+2020-10-03 13:58:09,985 - werkzeug - INFO - 127.0.0.1 - - [03/Oct/2020 13:58:09] "[37mGET /static/media/brodyquest.6259cc84.mp3 HTTP/1.1[0m" 206 -
